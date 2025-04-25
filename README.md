@@ -1,24 +1,23 @@
-# Привет, меня зовут Иван! 👋  
+# 👋 Привет, я [Ваше Имя] | ML Engineer / Data Scientist
 
-🚀 Backend-разработчик (Python, Django, FastAPI)  
-📍 Москва, Россия  
+🔭 **Сейчас работаю над:** [Описание проекта, например: "Разработка NLP-модели для классификации текстов"]  
+🌱 **Изучаю:** Transformer-архитектуры, MLOps, LLM Fine-Tuning  
+💡 **Интересы:** Computer Vision, Generative AI, AutoML  
+📫 **Связь:** [Telegram](https://t.me/ваш_ник), [LinkedIn](https://linkedin.com/in/ваш_профиль), email@example.com  
 
-### 🔧 Технологии и навыки  
-- **Языки:** Python, JavaScript, SQL  
-- **Фреймворки:** Django, FastAPI, React  
-- **Базы данных:** PostgreSQL, Redis  
-- **DevOps:** Docker, GitHub Actions, AWS  
+### 🛠 **Стек технологий**  
+- **ML/DL:** PyTorch, TensorFlow, Scikit-learn, HuggingFace  
+- **Данные:** Pandas, NumPy, SQL
+- **Продакшн:** FastAPI, Docker, MLflow, Airflow  
+- **Инфраструктура:** Изучаю ☺️
 
-### 🏆 Мои проекты  
-- [Online Store (Django + React)](https://github.com/username/store) – интернет-магазин с оплатой.  
-- [Telegram Bot (Python + Aiogram)](https://github.com/username/telegram-bot) – бот для учета финансов.  
+### 🚀 **Ключевые проекты**  
+Пример:
+1. **[Ансамблирование моделей с HuggingFace](https://github.com/RadM-AI/ensemble_models_for_HF_dvc)** – Pipeline от обучение до оценки (DVC).  
+2. **[Участие в Кубке России по Продуктовому программированию]([https://github.com/RadM-AI/llm-chatbot](https://github.com/drozd12321/FSP))**    
 
-### 📊 GitHub статистика  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-username&layout=compact)](https://github.com/ваш-username)  
+### 📊 **GitHub Analytics**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadM-AI&layout=compact&hide=html,css)](https://github.com/RadM-AI)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=RadM-AI&theme=dark)](https://git.io/streak-stats)  
 
-### 📫 Как связаться?  
-- Telegram: [@username](https://t.me/username)  
-- Email: user@example.com  
-- LinkedIn: [ivan-ivanov](https://linkedin.com/in/ivan-ivanov)  
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ваш-username.ваш-username)  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RadM-AI.RadM-AI)  
